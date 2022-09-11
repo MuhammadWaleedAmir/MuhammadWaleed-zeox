@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadwaleed-zeox&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadwaleed-zeox" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadwaleed-zeox" alt="muhammadwaleed-zeox" /></a> </p>
-
 - 🔭 I’m currently working on **ZEOX (Flutter based marketplace)**
 
 - 🌱 I’m currently learning **Flutter Bloc Architecture**
@@ -34,7 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadwaleed-zeox&show_icons=true&locale=en" alt="muhammadwaleed-zeox" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadwaleed-zeox&" alt="muhammadwaleed-zeox" /></p>
-
 
 <!--
 **MuhammadWaleed-zeox/MuhammadWaleed-zeox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
