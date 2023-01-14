@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ZEOX (Flutter based marketplace)**
 
-- 🌱 I’m currently learning **Flutter Bloc Architecture**
+- 🌱 I’m currently learning **Flutter Getx**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/muhammedwaleed](https://www.behance.net/muhammedwaleed)
 
